@@ -2,7 +2,7 @@
 This Repository contains the tasks that i completed while working as an intern for sparks foundation
 
 Internship Category - Data Science and Business Analytics
-Internship Duration - 1 Month ( April 2022)
+Internship Duration - 1 Month ( February 2023)
 Internship Type - Work from Home
 Task 1
 Prediction using Supervised ML
